@@ -41,7 +41,19 @@ By combining NLP with financial analytics, the project demonstrates how AI can p
 - Identified the **most frequently mentioned market entities**.  
 - Classified **sentiment trends** (positive, negative, neutral).  
 - Highlighted **analyst recommendations** (upgrade, downgrade, hold).  
-- Produced **visual dashboards** summarizing sentiment around companies.  
+- Produced **visual dashboards** summarizing sentiment around companies.
+
+---
+## 📓 Project Notebook
+You can view the complete notebook with code, outputs, and visualizations here:  
+
+👉 [Market Entity Analysis Notebook](bsan885_project.ipynb)
+
+Or run it directly in Google Colab:  
+
+[![Open In Colab](https://colab.research.google.com/github/sanjanaa31/market-entity-analysis/blob/main/bsan885_project.ipynb)
+
+
 
 
 
