@@ -49,9 +49,6 @@ You can view the complete notebook with code, outputs, and visualizations here:
 
 👉 [Market Entity Analysis Notebook](bsan885_project.ipynb)
 
-Or run it directly in Google Colab:  
-
-[![Open In Colab](https://colab.research.google.com/github/sanjanaa31/market-entity-analysis/blob/main/bsan885_project.ipynb)
 
 
 
